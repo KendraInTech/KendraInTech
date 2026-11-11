@@ -1,4 +1,4 @@
-# Hi, I'm Kendra! 👋🏽
+# Hi, I'm Kendra! 👋🏽 ![Kendra In Tech Logo](Kendra%20In%20Tech%20Logo.png)
 
 ### 💻 Computer Science Student | Software Development, Cybersecurity & IT
 
