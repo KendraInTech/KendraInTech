@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at the **University of Maryland Global Campus (UMGC)** with a **4.0 GPA**, pursuing my bachelor's degree with an expected graduation date of Fall 2027.
 
-I'm **CompTIA Security+ certified** and passionate about programming, cybersecurity, networking, and solving real-world problems through technology.
+I'm **CompTIA Security+ certified** and passionate about programming, cybersecurity, networking, and solving real world problems through technology.
 
 I enjoy learning, building projects, and exploring new opportunities to grow as a technology professional.
 
@@ -13,7 +13,7 @@ I enjoy learning, building projects, and exploring new opportunities to grow as 
 - 💻 Strengthening my **Java and Python** programming skills
 - 🔐 Exploring cybersecurity, vulnerability management, and security fundamentals
 - 🌐 Expanding my knowledge of networking and IT infrastructure
-- 🛠️ Building hands-on projects and documenting my technical journey
+- 🛠️ Building hands on projects and documenting my technical journey
 
 ## 🛠️ Technical Skills
 
