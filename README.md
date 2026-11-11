@@ -42,4 +42,4 @@ I'm open to networking, mentorship, collaboration, internships, and entry-level 
   <img src="Kendra%20In%20Tech%20Logo.png" alt="Kendra In Tech Logo" width="150">
 </div>
 
-                                                               *Learning. Building. Growing.* 🚀
+                                                    *Learning. Building. Growing.* 🚀
