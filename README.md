@@ -1,9 +1,5 @@
 # Hi, I'm Kendra! 👋🏽
 
-<div align="center">
-  <img src="Kendra%20In%20Tech%20Logo.png" alt="Kendra In Tech Logo" width="150">
-</div>
-
 ### 💻 Computer Science Student | Software Development, Cybersecurity & IT
 
 I'm a Computer Science student at the **University of Maryland Global Campus (UMGC)** with a **4.0 GPA**, pursuing my bachelor's degree with an expected graduation date of Fall 2027.
@@ -42,5 +38,8 @@ I'm open to networking, mentorship, collaboration, internships, and entry-level 
 - 💻 [GitHub](https://github.com/KendraInTech)
 
 ---
+<div align="center">
+  <img src="Kendra%20In%20Tech%20Logo.png" alt="Kendra In Tech Logo" width="150">
+</div>
 
 *Learning. Building. Growing.* 🚀
