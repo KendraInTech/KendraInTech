@@ -1,4 +1,7 @@
-# Hi, I'm Kendra! 👋🏽
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=F5C542&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kendra!;Welcome+to+Kendra+In+Tech;Learning.+Building.+Growing." alt="Typing Animation">
+</div>
 
 ### 💻 Computer Science Student | Software Development, Cybersecurity & IT
 
