@@ -1,4 +1,8 @@
-# Hi, I'm Kendra! 👋🏽 ![Kendra In Tech Logo](Kendra%20In%20Tech%20Logo.png)
+# Hi, I'm Kendra! 👋🏽
+
+<div align="center">
+  <img src="Kendra%20In%20Tech%20Logo.png" alt="Kendra In Tech Logo" width="150">
+</div>
 
 ### 💻 Computer Science Student | Software Development, Cybersecurity & IT
 
